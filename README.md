@@ -1,4 +1,4 @@
-### Hi there friends 👋
+### Hi, I'm Peter 👋
 
 <!--
 **peterken1/peterken1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
