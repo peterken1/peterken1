@@ -1,4 +1,4 @@
-### Hi, I'm Peter 👋
+### Hi, I'm Peter 👋 A software Developer Residing in South Africa 
 
 <!--
 **peterken1/peterken1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
